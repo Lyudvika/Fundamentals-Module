@@ -1,2 +1,2 @@
-# Fundamentals-Module
-This is a repository in which I store solved problems from Software University - Fundamentals module C#.
+<h1 align="center">C# Fundamentals-Module</h1>
+<h2 align="center">In this repository you can find the task solutions for C# Fundamentals course from SoftUni.</h2>
